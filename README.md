@@ -34,3 +34,4 @@ npm run build
 ```sh
 npm run lint
 ```
+# DE_TemplatesyRenderingVue
